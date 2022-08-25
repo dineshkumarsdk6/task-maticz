@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Dineshkumar/AndroidStudioProjects/TaskMaticz/app/src/main/res/drawable/bg_textview.xml" value="0.26197916666666665" />
+        <entry key="..\:/Users/Dineshkumar/AndroidStudioProjects/TaskMaticz/app/src/main/res/drawable/ic_baseline_fingerprint_24.xml" value="0.25794871794871793" />
+        <entry key="..\:/Users/Dineshkumar/AndroidStudioProjects/TaskMaticz/app/src/main/res/drawable/ic_baseline_person_24.xml" value="0.26197916666666665" />
+        <entry key="..\:/Users/Dineshkumar/AndroidStudioProjects/TaskMaticz/app/src/main/res/drawable/ic_baseline_smartphone_24.xml" value="0.25794871794871793" />
+        <entry key="..\:/Users/Dineshkumar/AndroidStudioProjects/TaskMaticz/app/src/main/res/layout/activity_main.xml" value="0.24583333333333332" />
+        <entry key="..\:/Users/Dineshkumar/AndroidStudioProjects/TaskMaticz/app/src/main/res/layout/layout_book_car.xml" value="0.24583333333333332" />
+        <entry key="..\:/Users/Dineshkumar/AndroidStudioProjects/TaskMaticz/app/src/main/res/layout/layout_fragment_intro1.xml" value="0.24583333333333332" />
+        <entry key="..\:/Users/Dineshkumar/AndroidStudioProjects/TaskMaticz/app/src/main/res/layout/layout_fragment_intro2.xml" value="0.24583333333333332" />
+        <entry key="..\:/Users/Dineshkumar/AndroidStudioProjects/TaskMaticz/app/src/main/res/layout/layout_fragment_intro3.xml" value="0.24583333333333332" />
+        <entry key="..\:/Users/Dineshkumar/AndroidStudioProjects/TaskMaticz/app/src/main/res/layout/layout_fragment_intro4.xml" value="0.24583333333333332" />
+        <entry key="..\:/Users/Dineshkumar/AndroidStudioProjects/TaskMaticz/app/src/main/res/layout/layout_intro.xml" value="0.24205128205128204" />
+        <entry key="..\:/Users/Dineshkumar/AndroidStudioProjects/TaskMaticz/app/src/main/res/layout/layout_intro_1.xml" value="0.24583333333333332" />
+        <entry key="..\:/Users/Dineshkumar/AndroidStudioProjects/TaskMaticz/app/src/main/res/layout/layout_mobile.xml" value="0.24583333333333332" />
+        <entry key="..\:/Users/Dineshkumar/AndroidStudioProjects/TaskMaticz/app/src/main/res/layout/layout_otp.xml" value="0.24583333333333332" />
+        <entry key="..\:/Users/Dineshkumar/AndroidStudioProjects/TaskMaticz/app/src/main/res/layout/layout_password.xml" value="0.24583333333333332" />
+        <entry key="..\:/Users/Dineshkumar/AndroidStudioProjects/TaskMaticz/app/src/main/res/layout/layout_splash_screen.xml" value="0.24583333333333332" />
+        <entry key="..\:/Users/Dineshkumar/AndroidStudioProjects/TaskMaticz/app/src/main/res/layout/layout_username.xml" value="0.24583333333333332" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

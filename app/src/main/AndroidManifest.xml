@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.task.maticz">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.TaskMaticz">
+        <activity
+            android:name=".activity.ActivitySplashScreen"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".activity.ActivityIntro" />
+        <activity
+            android:name=".activity.ActivityUserName"
+            android:windowSoftInputMode="adjustPan" />
+        <activity
+            android:name=".activity.ActivityMobile"
+            android:windowSoftInputMode="adjustPan" />
+        <activity
+            android:name=".activity.ActivityPassword"
+            android:windowSoftInputMode="adjustPan" />
+        <activity
+            android:name=".activity.ActivityOtp"
+            android:windowSoftInputMode="adjustPan" />
+        <activity android:name=".activity.ActivityBookCar" />
+    </application>
+
+</manifest>
